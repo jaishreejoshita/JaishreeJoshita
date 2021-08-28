@@ -1,4 +1,4 @@
-<img align="right" width="275" height="250" src="https://github.com/JaishreeJoshita/JaishreeJoshita/blob/0239f95ed26c53fd7d401736229d555e5c2e76bc/working%20gif.gif">
+<img align="right" width="275" height="225" src="https://github.com/JaishreeJoshita/JaishreeJoshita/blob/0239f95ed26c53fd7d401736229d555e5c2e76bc/working%20gif.gif">
 
 # Bonjour Folks! 👋
 This is **Jaishree Joshita** from **India**, an aspiring **Economist**, and an alma-mater of **BHU** and **CUJ**.
