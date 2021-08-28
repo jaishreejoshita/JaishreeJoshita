@@ -1,3 +1,5 @@
+<img align="right" width="200" height="200" src="">
+
 # Bonjour Folks! 👋
 This is **Jaishree Joshita** from **India**, an aspiring **Economist**, and an alma-mater of **BHU** and **CUJ**.
 - My Areas of Interest include Macroeconomics, Econometrics, International Economics, and International Relations.
