@@ -10,7 +10,5 @@ This is **Jaishree Joshita** from **India**, an aspiring **Economist**, and an a
 Check out [My Portfolio](https://jaishreejoshita.github.io) | You can reach me out via [Email](jaishreejoshita@gmail.com), ***Au Revoir***!!! ❤️
 
 #
-<p dir="auto">
-<a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/"> ==$0 <img src="https://camo.githubusercontent.com/" alt="image" data-canonical-src="https://komarev.com/ghpvc/?username=jaishreejoshita&color=ff69b4" style="max-width: 100%;">
-</a>
-</p>
+![](https://komarev.com/ghpvc/?username=jaishreejoshita&color=ff69b4)
+
