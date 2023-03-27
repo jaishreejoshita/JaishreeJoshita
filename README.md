@@ -11,8 +11,7 @@ Check out [My Portfolio](https://jaishreejoshita.github.io) | You can reach me o
 
 #
 
-![]
-(https://komarev.com/ghpvc/?username=jaishreejoshita&color=ff69b4)
+![](https://komarev.com/ghpvc/?username=jaishreejoshita&color=ff69b4&Label=Profile+Views)
                                           
  
 
