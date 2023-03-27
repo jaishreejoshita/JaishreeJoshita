@@ -10,6 +10,6 @@ This is **Jaishree Joshita** from **India**, an aspiring **Economist**, and an a
 Check out [My Portfolio](https://jaishreejoshita.github.io) | You can reach me out via [Email](jaishreejoshita@gmail.com), ***Au Revoir***!!! ❤️
 
 <p dir="auto">
-<a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/6be15a5381de056d8a0969361709a0b9923c93a43322f63a95684da900713a11/68747470733a2f2f6b6f6d617265762e636f6d2f67687076632f3f757365726e616d653d69707369746d616e747269"><img src="https://camo.githubusercontent.com/6be15a5381de056d8a0969361709a0b9923c93a43322f63a95684da900713a11/68747470733a2f2f6b6f6d617265762e636f6d2f67687076632f3f757365726e616d653d69707369746d616e747269" alt="" data-canonical-src="https://komarev.com/ghpvc/?username=jaishreejoshita" style="max-width: 100%;">
+<a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/6be15a5381de056d8a0969361709a0b9923c93a43322f63a95684da900713a11/68747470733a2f2f6b6f6d617265762e636f6d2f67687076632f3f757365726e616d653d69707369746d616e747269"><img src="https://camo.githubusercontent.com/6be15a5381de056d8a0969361709a0b9923c93a43322f63a95684da900713a11/68747470733a2f2f6b6f6d617265762e636f6d2f67687076632f3f757365726e616d653d69707369746d616e747269" alt="image" data-canonical-src="https://komarev.com/ghpvc/?username=jaishreejoshita&color=red" style="max-width: 100%;">
 </a>
 </p>
