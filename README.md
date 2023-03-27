@@ -12,6 +12,18 @@ Check out [My Portfolio](https://jaishreejoshita.github.io) | You can reach me o
 #
 
 ![](https://komarev.com/ghpvc/?username=jaishreejoshita&color=ff69b4)
+
+#
+<html>
+  <head>
+    <title>My GitHub Profile</title>
+  </head>
+  <body>
+    <div style="display: flex; justify-content: center; align-items: center; height: 100vh;">
+      <img src="https://komarev.com/ghpvc/?username=jaishreejoshita&color=ff69b4" alt="GitHub Profile Views Counter">
+    </div>
+  </body>
+</html>
                                           
  
 
