@@ -12,71 +12,9 @@ Check out [My Portfolio](https://jaishreejoshita.github.io) | You can reach me o
 #
 <p align = "center" dir="auto">
 <img src="https://komarev.com/ghpvc/?username=jaishreejoshita&color=ff69b4" alt="GitHub Profile Views Counter">
-![](https://komarev.com/ghpvc/?username=jaishreejoshita&color=ff69b4)
+#![](https://komarev.com/ghpvc/?username=jaishreejoshita&color=ff69b4)
 </p
   
-#
-<html>
-  <head>
-    <title>My GitHub Profile</title>
-  </head>
-  <body>
-    <div style="display: flex; justify-content: center; align-items: center; height: 100vh;">
-      <img src="https://komarev.com/ghpvc/?username=jaishreejoshita&color=ff69b4" alt="GitHub Profile Views Counter">
-    </div>
-  </body>
-</html>
-
-#
-
-<html>
-  <head>
-    <title>My GitHub Profile</title>
-    <style>
-      .container {
-        display: flex;
-        justify-content: center;
-        align-items: center;
-        height: 100vh;
-      }
-
-      img {
-        margin: auto;
-      }
-    </style>
-  </head>
-  <body>
-    <div class="container">
-      <img src="https://komarev.com/ghpvc/?username=jaishreejoshita&color=ff69b4" alt="GitHub Profile Views Counter">
-    </div>
-  </body>
-</html>
-
-
-#
-<!DOCTYPE html>
-<html>
-  <head>
-    <title>My GitHub Profile</title>
-    <style>
-      .container {
-        display: flex;
-        justify-content: center;
-        align-items: center;
-        height: 100vh;
-      }
-
-      .badge {
-        margin: 0 auto;
-      }
-    </style>
-  </head>
-  <body>
-    <div class="container">
-      <img class="badge" src="https://komarev.com/ghpvc/?username=jaishreejoshita&color=ff69b4" alt="GitHub Profile Views Counter">
-    </div>
-  </body>
-</html>
 
 
 
