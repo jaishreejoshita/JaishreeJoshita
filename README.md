@@ -12,7 +12,6 @@ Check out [My Portfolio](https://jaishreejoshita.github.io) | You can reach me o
 #
 <p align = "center" dir="auto">
 <img src="https://komarev.com/ghpvc/?username=jaishreejoshita&color=ff69b4" alt="GitHub Profile Views Counter">
-#![](https://komarev.com/ghpvc/?username=jaishreejoshita&color=ff69b4)
 </p
   
 
