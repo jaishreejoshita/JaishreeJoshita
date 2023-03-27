@@ -10,9 +10,10 @@ This is **Jaishree Joshita** from **India**, an aspiring **Economist**, and an a
 Check out [My Portfolio](https://jaishreejoshita.github.io) | You can reach me out via [Email](jaishreejoshita@gmail.com), ***Au Revoir***!!! ❤️
 
 #
-
+<p align = "center" dir="auto">
 ![](https://komarev.com/ghpvc/?username=jaishreejoshita&color=ff69b4)
-
+</p
+  
 #
 <html>
   <head>
