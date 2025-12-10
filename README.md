@@ -6,7 +6,7 @@ This is **Jaishree Joshita** from **India**, a **FX Stratagist**, and an alma-ma
 - Completed my Masters in Economics Degree From BHU, Varanasi with a specialisation in Econometrics and minor in Political Science.
 - Completed my Dual Bachelor Degree (B.A.B.Ed.) from CUJ, Ranchi with a major in Economics and a minor in Political Science.
 - My Personality Traits appear as a Self Driven, Avid learner, Team Player, Pro Active, Leadership and Strategic Decision Maker.
-- Working with **London Stock Exchange Group** on dynamic projects.
+- Working with **An Investment Bank through Acuity Analytics** on dynamic FX Strategy projects.
 
 Check out [My Portfolio](https://jaishreejoshita.github.io) | You can reach me out via [Email](jaishreejoshita@gmail.com), ***Au Revoir***!!! ❤️
 
